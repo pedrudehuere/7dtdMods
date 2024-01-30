@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configs>
+<append xpath="/recipes">
+
+    <recipe name="ammoArrowChicken" count="1">
+        <ingredient name="resourceRockSmall" count="1"/>
+        <ingredient name="resourceWood" count="1"/>
+        <ingredient name="resourceFeather" count="1"/>
+    </recipe>
+    
+</append>
+</configs>
